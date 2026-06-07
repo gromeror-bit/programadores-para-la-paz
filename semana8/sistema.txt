@@ -1,0 +1,3 @@
+El comando whoami muestra el usuario actual del sistema (mio\gemit). 
+El comando systeminfo muestra informaci¢n completa del sistema operativo, hardware y red del computador. 
+Esto es £til para administrar servidores y entender el entorno del sistema. 

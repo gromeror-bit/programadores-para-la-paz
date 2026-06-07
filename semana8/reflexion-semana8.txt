@@ -1,0 +1,8 @@
+La seguridad digital es fundamental para proteger plataformas comunitarias. 
+Permite evitar accesos no autorizados y protege la informaci¢n de los usuarios. 
+En sistemas participativos, la confianza depende de c¢mo se gestionan los datos. 
+El uso de credenciales seguras ayuda a evitar suplantaci¢n de identidad. 
+Los permisos bien configurados reducen riesgos de errores o ataques. 
+Adem s, el uso de tecnolog¡as abiertas permite mayor transparencia. 
+Esto facilita auditor¡as y mejora la seguridad del sistema. 
+En conjunto, la seguridad digital fortalece la confianza de la comunidad. 
