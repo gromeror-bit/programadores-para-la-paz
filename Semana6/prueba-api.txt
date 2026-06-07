@@ -1,0 +1,9 @@
+Al probar la API mediante una petición POST, el servidor recibió correctamente los datos enviados en formato JSON y devolvió una respuesta con la información registrada.
+
+Respuesta obtenida:
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
