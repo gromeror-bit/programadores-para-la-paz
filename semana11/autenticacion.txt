@@ -1,0 +1,5 @@
+El login permite identificar a un usuario antes de darle acceso a una aplicacion.
+Solo los usuarios autorizados pueden acceder a funciones importantes.
+Algunas rutas deben estar protegidas porque contienen informacion privada.
+Esto evita accesos no autorizados y protege los datos.
+No deben exponerse contrasenas, documentos, telefonos, direcciones, tokens ni claves de API.

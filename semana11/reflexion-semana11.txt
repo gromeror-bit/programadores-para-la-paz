@@ -1,0 +1,8 @@
+Una plataforma ciudadana necesita una base de datos para almacenar la informacion de forma organizada.
+Esto facilita el seguimiento de las solicitudes y reportes.
+La autenticacion permite que solo los usuarios autorizados accedan a determinadas funciones.
+La proteccion de la informacion evita el uso indebido de los datos personales.
+Tambien genera confianza entre los ciudadanos.
+El control de acceso y la trazabilidad permiten saber quien realiza cada accion.
+Todo esto hace que la plataforma sea mas segura y transparente.
+De esta manera se fortalece la participacion ciudadana.

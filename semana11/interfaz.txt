@@ -1,0 +1,5 @@
+La interfaz tendra un formulario para crear una causa comunitaria.
+Mostrara una lista de causas disponibles.
+Cada causa tendra un boton para apoyar.
+Tambien mostrara un contador con el numero de apoyos.
+La interfaz sera sencilla y no mostrara informacion privada.
