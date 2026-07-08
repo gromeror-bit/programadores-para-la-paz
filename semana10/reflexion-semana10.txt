@@ -1,0 +1,9 @@
+Las metodologias agiles ayudan a organizar mejor el trabajo porque permiten priorizar tareas y avanzar por etapas.
+El backlog facilita conocer que actividades son mas importantes.
+Las iteraciones permiten revisar avances y corregir errores a tiempo.
+Telegram mejora la comunicacion entre los integrantes del equipo.
+n8n automatiza tareas repetitivas y ahorra tiempo.
+La automatizacion debe usarse con responsabilidad.
+No se deben compartir datos personales o sensibles.
+Siempre debe existir supervision humana.
+Asi se logra un trabajo mas organizado, seguro y eficiente.
